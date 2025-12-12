@@ -1,0 +1,38 @@
+{
+  "id": "capstone-project/implementation-guide",
+  "title": "Implementation Guide",
+  "description": "Step-by-step guide for implementing the Capstone Project.",
+  "source": "@site/docs/06-capstone-project/03-implementation-guide.md",
+  "sourceDirName": "06-capstone-project",
+  "slug": "/capstone-project/implementation-guide",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/implementation-guide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Implementation Guide",
+    "description": "Step-by-step guide for implementing the Capstone Project.",
+    "keywords": [
+      "capstone",
+      "project",
+      "implementation",
+      "guide",
+      "ros2",
+      "vla",
+      "isaac",
+      "simulation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "System Architecture",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/system-architecture"
+  },
+  "next": {
+    "title": "Testing and Validation",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/testing-validation"
+  }
+}

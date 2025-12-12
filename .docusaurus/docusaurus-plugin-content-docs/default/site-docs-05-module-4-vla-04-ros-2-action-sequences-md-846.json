@@ -1,0 +1,36 @@
+{
+  "id": "module-4-vla/ros2-action-sequences",
+  "title": "ROS 2 Action Sequences",
+  "description": "Translating LLM plans into executable ROS 2 action sequences.",
+  "source": "@site/docs/05-module-4-vla/04-ros2-action-sequences.md",
+  "sourceDirName": "05-module-4-vla",
+  "slug": "/module-4-vla/ros2-action-sequences",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/ros2-action-sequences",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "ROS 2 Action Sequences",
+    "description": "Translating LLM plans into executable ROS 2 action sequences.",
+    "keywords": [
+      "ros2",
+      "action sequences",
+      "llm to robotics",
+      "task planning",
+      "hierarchical control",
+      "physical ai"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LLM Cognitive Planning",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/llm-cognitive-planning"
+  },
+  "next": {
+    "title": "Multimodal Interaction",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/multimodal-interaction"
+  }
+}

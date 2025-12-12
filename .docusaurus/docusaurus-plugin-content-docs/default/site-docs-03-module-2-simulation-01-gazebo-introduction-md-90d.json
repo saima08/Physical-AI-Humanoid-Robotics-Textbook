@@ -1,0 +1,36 @@
+{
+  "id": "module-2-simulation/gazebo-introduction",
+  "title": "Gazebo Introduction",
+  "description": "Introduction to the Gazebo simulation environment.",
+  "source": "@site/docs/03-module-2-simulation/01-gazebo-introduction.md",
+  "sourceDirName": "03-module-2-simulation",
+  "slug": "/module-2-simulation/gazebo-introduction",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/gazebo-introduction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Gazebo Introduction",
+    "description": "Introduction to the Gazebo simulation environment.",
+    "keywords": [
+      "gazebo",
+      "simulation",
+      "robotics",
+      "environment",
+      "physics",
+      "models"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simulation Module Overview",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/"
+  },
+  "next": {
+    "title": "Physics Simulation",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/physics-simulation"
+  }
+}

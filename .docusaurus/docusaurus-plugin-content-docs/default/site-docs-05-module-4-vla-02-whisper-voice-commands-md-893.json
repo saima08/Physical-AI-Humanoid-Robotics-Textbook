@@ -1,0 +1,36 @@
+{
+  "id": "module-4-vla/whisper-voice-commands",
+  "title": "Whisper Voice Commands",
+  "description": "Integrating OpenAI Whisper for voice-to-action commands.",
+  "source": "@site/docs/05-module-4-vla/02-whisper-voice-commands.md",
+  "sourceDirName": "05-module-4-vla",
+  "slug": "/module-4-vla/whisper-voice-commands",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/whisper-voice-commands",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Whisper Voice Commands",
+    "description": "Integrating OpenAI Whisper for voice-to-action commands.",
+    "keywords": [
+      "openai whisper",
+      "voice commands",
+      "speech recognition",
+      "voice-to-action",
+      "nlp",
+      "robotics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VLA Introduction",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/vla-introduction"
+  },
+  "next": {
+    "title": "LLM Cognitive Planning",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/llm-cognitive-planning"
+  }
+}

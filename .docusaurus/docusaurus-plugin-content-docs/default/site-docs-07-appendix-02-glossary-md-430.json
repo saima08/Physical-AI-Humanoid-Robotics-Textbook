@@ -1,0 +1,37 @@
+{
+  "id": "appendix/glossary",
+  "title": "Glossary",
+  "description": "Definitions of key terms used in Physical AI and Robotics.",
+  "source": "@site/docs/07-appendix/02-glossary.md",
+  "sourceDirName": "07-appendix",
+  "slug": "/appendix/glossary",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/glossary",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Glossary",
+    "description": "Definitions of key terms used in Physical AI and Robotics.",
+    "keywords": [
+      "glossary",
+      "definitions",
+      "terminology",
+      "physical ai",
+      "robotics",
+      "llm",
+      "ros2"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Troubleshooting",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/troubleshooting"
+  },
+  "next": {
+    "title": "Resources",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/resources"
+  }
+}

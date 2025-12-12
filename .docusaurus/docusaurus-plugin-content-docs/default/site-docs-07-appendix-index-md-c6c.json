@@ -1,0 +1,36 @@
+{
+  "id": "appendix/index",
+  "title": "Appendix Overview",
+  "description": "Supplementary materials and additional resources.",
+  "source": "@site/docs/07-appendix/index.md",
+  "sourceDirName": "07-appendix",
+  "slug": "/appendix/",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Appendix Overview",
+    "description": "Supplementary materials and additional resources.",
+    "keywords": [
+      "appendix",
+      "resources",
+      "glossary",
+      "troubleshooting",
+      "further reading",
+      "physical ai"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Evaluation Rubric",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/evaluation-rubric"
+  },
+  "next": {
+    "title": "Troubleshooting",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/troubleshooting"
+  }
+}

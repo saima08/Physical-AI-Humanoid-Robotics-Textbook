@@ -1,0 +1,36 @@
+{
+  "id": "prerequisites/cloud-alternatives",
+  "title": "Cloud Alternatives",
+  "description": "Exploring cloud platforms for robotics development.",
+  "source": "@site/docs/01-prerequisites/04-cloud-alternatives.md",
+  "sourceDirName": "01-prerequisites",
+  "slug": "/prerequisites/cloud-alternatives",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/cloud-alternatives",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Cloud Alternatives",
+    "description": "Exploring cloud platforms for robotics development.",
+    "keywords": [
+      "cloud",
+      "aws robomaker",
+      "omniverse cloud",
+      "simulation",
+      "development",
+      "cost"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Edge Kit Setup",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/edge-kit-setup"
+  },
+  "next": {
+    "title": "ROS 2 Module Overview",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/"
+  }
+}

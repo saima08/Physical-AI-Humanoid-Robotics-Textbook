@@ -1,0 +1,36 @@
+{
+  "id": "module-4-vla/index",
+  "title": "Vision-Language-Action (VLA) Module Overview",
+  "description": "Integrating LLMs with robotics for intelligent agents.",
+  "source": "@site/docs/05-module-4-vla/index.md",
+  "sourceDirName": "05-module-4-vla",
+  "slug": "/module-4-vla/",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Vision-Language-Action (VLA) Module Overview",
+    "description": "Integrating LLMs with robotics for intelligent agents.",
+    "keywords": [
+      "vla",
+      "llm",
+      "robotics",
+      "nlp",
+      "multimodal",
+      "AI"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3 Assessment",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/module3-assessment"
+  },
+  "next": {
+    "title": "VLA Introduction",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/vla-introduction"
+  }
+}

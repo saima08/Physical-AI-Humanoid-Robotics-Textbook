@@ -1,0 +1,36 @@
+{
+  "id": "module-3-nvidia-isaac/synthetic-data-generation",
+  "title": "Synthetic Data Generation",
+  "description": "Generating synthetic data for AI training with Isaac Sim.",
+  "source": "@site/docs/04-module-3-nvidia-isaac/03-synthetic-data-generation.md",
+  "sourceDirName": "04-module-3-nvidia-isaac",
+  "slug": "/module-3-nvidia-isaac/synthetic-data-generation",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/synthetic-data-generation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Synthetic Data Generation",
+    "description": "Generating synthetic data for AI training with Isaac Sim.",
+    "keywords": [
+      "synthetic data",
+      "isaac sim",
+      "AI training",
+      "domain randomization",
+      "computer vision",
+      "deep learning"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac Sim Setup",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/isaac-sim-setup"
+  },
+  "next": {
+    "title": "Isaac ROS Integration",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/isaac-ros-integration"
+  }
+}

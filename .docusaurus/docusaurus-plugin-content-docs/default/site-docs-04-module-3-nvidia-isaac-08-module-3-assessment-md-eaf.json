@@ -1,0 +1,37 @@
+{
+  "id": "module-3-nvidia-isaac/module3-assessment",
+  "title": "Module 3 Assessment",
+  "description": "Project requirements and evaluation for Isaac-based perception pipeline.",
+  "source": "@site/docs/04-module-3-nvidia-isaac/08-module3-assessment.md",
+  "sourceDirName": "04-module-3-nvidia-isaac",
+  "slug": "/module-3-nvidia-isaac/module3-assessment",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/module3-assessment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "Module 3 Assessment",
+    "description": "Project requirements and evaluation for Isaac-based perception pipeline.",
+    "keywords": [
+      "isaac",
+      "assessment",
+      "project",
+      "perception pipeline",
+      "sim-to-real",
+      "ros2",
+      "physical ai"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sim-to-Real Transfer",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/sim-to-real-transfer"
+  },
+  "next": {
+    "title": "Vision-Language-Action (VLA) Module Overview",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/"
+  }
+}

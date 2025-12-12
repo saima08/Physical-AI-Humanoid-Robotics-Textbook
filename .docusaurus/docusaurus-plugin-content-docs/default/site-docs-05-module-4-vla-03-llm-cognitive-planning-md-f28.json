@@ -1,0 +1,36 @@
+{
+  "id": "module-4-vla/llm-cognitive-planning",
+  "title": "LLM Cognitive Planning",
+  "description": "Leveraging Large Language Models for cognitive planning in robotics.",
+  "source": "@site/docs/05-module-4-vla/03-llm-cognitive-planning.md",
+  "sourceDirName": "05-module-4-vla",
+  "slug": "/module-4-vla/llm-cognitive-planning",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/llm-cognitive-planning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "LLM Cognitive Planning",
+    "description": "Leveraging Large Language Models for cognitive planning in robotics.",
+    "keywords": [
+      "llm",
+      "cognitive planning",
+      "natural language processing",
+      "robotics",
+      "task planning",
+      "generative AI"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Whisper Voice Commands",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/whisper-voice-commands"
+  },
+  "next": {
+    "title": "ROS 2 Action Sequences",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/ros2-action-sequences"
+  }
+}

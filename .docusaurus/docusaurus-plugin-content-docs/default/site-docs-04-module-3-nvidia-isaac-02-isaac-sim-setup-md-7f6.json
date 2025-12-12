@@ -1,0 +1,36 @@
+{
+  "id": "module-3-nvidia-isaac/isaac-sim-setup",
+  "title": "Isaac Sim Setup",
+  "description": "Setting up NVIDIA Isaac Sim for robotics development.",
+  "source": "@site/docs/04-module-3-nvidia-isaac/02-isaac-sim-setup.md",
+  "sourceDirName": "04-module-3-nvidia-isaac",
+  "slug": "/module-3-nvidia-isaac/isaac-sim-setup",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/isaac-sim-setup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Isaac Sim Setup",
+    "description": "Setting up NVIDIA Isaac Sim for robotics development.",
+    "keywords": [
+      "isaac sim",
+      "setup",
+      "omniverse",
+      "nvidia",
+      "installation",
+      "requirements"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac Platform Overview",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/isaac-platform-overview"
+  },
+  "next": {
+    "title": "Synthetic Data Generation",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/synthetic-data-generation"
+  }
+}

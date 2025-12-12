@@ -1,0 +1,84 @@
+# Node.js
+node_modules/
+dist/
+build/
+*.log
+.env*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+report.xml
+.pnpm-debug.log*
+
+# Docusaurus
+# .docusaurus/
+# build/
+
+# Universal
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
+
+# OS-specific
+.classpath
+.project
+.settings
+.vs
+*.funcproj
+*.sync
+*.user
+*.bak
+*.dat
+*.err
+*.form
+*.res
+*.rej
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Misc
+.cache
+.npm
+.eslintcache
+.stylelintcache
+.yarn
+.venv
+venv
+tags
+TAGS
+*.pid
+*.seed
+*.pid.lock
+
+# CI/CD
+.github/
+.travis.yml
+appveyor.yml
+.gitlab-ci.yml
+Jenkinsfile
+
+# Test coverage
+coverage/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.vcxproj
+.vs/
+*.docstates
+*.tscache

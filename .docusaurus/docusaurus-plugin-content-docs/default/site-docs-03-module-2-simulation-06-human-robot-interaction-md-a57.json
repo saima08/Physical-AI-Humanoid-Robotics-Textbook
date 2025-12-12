@@ -1,0 +1,36 @@
+{
+  "id": "module-2-simulation/human-robot-interaction",
+  "title": "Human-Robot Interaction",
+  "description": "Simulating human presence and interaction scenarios.",
+  "source": "@site/docs/03-module-2-simulation/06-human-robot-interaction.md",
+  "sourceDirName": "03-module-2-simulation",
+  "slug": "/module-2-simulation/human-robot-interaction",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/human-robot-interaction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Human-Robot Interaction",
+    "description": "Simulating human presence and interaction scenarios.",
+    "keywords": [
+      "human-robot interaction",
+      "hri",
+      "simulation",
+      "human presence",
+      "proxemics",
+      "safety"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unity Integration",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/unity-integration"
+  },
+  "next": {
+    "title": "Module 2 Assessment",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/module2-assessment"
+  }
+}

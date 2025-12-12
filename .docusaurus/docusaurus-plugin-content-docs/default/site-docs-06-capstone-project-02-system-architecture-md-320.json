@@ -1,0 +1,37 @@
+{
+  "id": "capstone-project/system-architecture",
+  "title": "System Architecture",
+  "description": "Overview of the system architecture for the Capstone Project.",
+  "source": "@site/docs/06-capstone-project/02-system-architecture.md",
+  "sourceDirName": "06-capstone-project",
+  "slug": "/capstone-project/system-architecture",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/system-architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "System Architecture",
+    "description": "Overview of the system architecture for the Capstone Project.",
+    "keywords": [
+      "capstone",
+      "project",
+      "architecture",
+      "system design",
+      "data flow",
+      "ros2",
+      "vla"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Project Requirements",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/project-requirements"
+  },
+  "next": {
+    "title": "Implementation Guide",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/implementation-guide"
+  }
+}

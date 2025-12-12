@@ -1,0 +1,37 @@
+{
+  "id": "module-1-ros2/urdf-humanoids",
+  "title": "URDF Humanoids",
+  "description": "Describing humanoid robots with URDF.",
+  "source": "@site/docs/02-module-1-ros2/06-urdf-humanoids.md",
+  "sourceDirName": "02-module-1-ros2",
+  "slug": "/module-1-ros2/urdf-humanoids",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/urdf-humanoids",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "URDF Humanoids",
+    "description": "Describing humanoid robots with URDF.",
+    "keywords": [
+      "urdf",
+      "humanoid",
+      "robot description",
+      "joints",
+      "links",
+      "kinematics",
+      "dynamics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Launch Files",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/launch-files"
+  },
+  "next": {
+    "title": "Module 1 Assessment",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/module1-assessment"
+  }
+}

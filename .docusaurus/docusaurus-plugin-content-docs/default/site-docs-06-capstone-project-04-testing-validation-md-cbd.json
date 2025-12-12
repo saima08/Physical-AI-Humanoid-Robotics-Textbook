@@ -1,0 +1,37 @@
+{
+  "id": "capstone-project/testing-validation",
+  "title": "Testing and Validation",
+  "description": "Testing strategies and validation criteria for the Capstone Project.",
+  "source": "@site/docs/06-capstone-project/04-testing-validation.md",
+  "sourceDirName": "06-capstone-project",
+  "slug": "/capstone-project/testing-validation",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/testing-validation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Testing and Validation",
+    "description": "Testing strategies and validation criteria for the Capstone Project.",
+    "keywords": [
+      "capstone",
+      "project",
+      "testing",
+      "validation",
+      "simulation",
+      "real-world",
+      "ros2"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Implementation Guide",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/implementation-guide"
+  },
+  "next": {
+    "title": "Evaluation Rubric",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/evaluation-rubric"
+  }
+}

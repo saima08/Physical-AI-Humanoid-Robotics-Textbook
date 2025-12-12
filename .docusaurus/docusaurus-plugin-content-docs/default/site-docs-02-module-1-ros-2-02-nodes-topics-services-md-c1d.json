@@ -1,0 +1,39 @@
+{
+  "id": "module-1-ros2/nodes-topics-services",
+  "title": "Nodes, Topics, and Services",
+  "description": "Communication patterns in ROS 2.",
+  "source": "@site/docs/02-module-1-ros2/02-nodes-topics-services.md",
+  "sourceDirName": "02-module-1-ros2",
+  "slug": "/module-1-ros2/nodes-topics-services",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/nodes-topics-services",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Nodes, Topics, and Services",
+    "description": "Communication patterns in ROS 2.",
+    "keywords": [
+      "ros2",
+      "nodes",
+      "topics",
+      "services",
+      "communication",
+      "publisher",
+      "subscriber",
+      "client",
+      "server"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Architecture",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/ros2-architecture"
+  },
+  "next": {
+    "title": "Actions Communication",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/actions-communication"
+  }
+}

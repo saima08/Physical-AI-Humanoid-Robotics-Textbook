@@ -1,0 +1,36 @@
+{
+  "id": "module-3-nvidia-isaac/isaac-ros-integration",
+  "title": "Isaac ROS Integration",
+  "description": "Integrating Isaac ROS packages for hardware acceleration.",
+  "source": "@site/docs/04-module-3-nvidia-isaac/04-isaac-ros-integration.md",
+  "sourceDirName": "04-module-3-nvidia-isaac",
+  "slug": "/module-3-nvidia-isaac/isaac-ros-integration",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/isaac-ros-integration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Isaac ROS Integration",
+    "description": "Integrating Isaac ROS packages for hardware acceleration.",
+    "keywords": [
+      "isaac ros",
+      "integration",
+      "hardware acceleration",
+      "ros2",
+      "jetson",
+      "gpu"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Synthetic Data Generation",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/synthetic-data-generation"
+  },
+  "next": {
+    "title": "VSLAM Navigation",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/vslam-navigation"
+  }
+}

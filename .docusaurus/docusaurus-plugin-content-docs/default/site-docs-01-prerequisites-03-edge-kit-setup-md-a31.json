@@ -1,0 +1,37 @@
+{
+  "id": "prerequisites/edge-kit-setup",
+  "title": "Edge Kit Setup",
+  "description": "Setting up edge computing devices like Jetson Orin Nano.",
+  "source": "@site/docs/01-prerequisites/03-edge-kit-setup.md",
+  "sourceDirName": "01-prerequisites",
+  "slug": "/prerequisites/edge-kit-setup",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/edge-kit-setup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Edge Kit Setup",
+    "description": "Setting up edge computing devices like Jetson Orin Nano.",
+    "keywords": [
+      "edge kit",
+      "jetson orin",
+      "realsense",
+      "setup",
+      "embedded ai",
+      "ros2",
+      "physical ai"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Workstation Setup",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/workstation-setup"
+  },
+  "next": {
+    "title": "Cloud Alternatives",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/cloud-alternatives"
+  }
+}

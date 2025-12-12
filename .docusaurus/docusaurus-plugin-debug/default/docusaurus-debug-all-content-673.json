@@ -1,0 +1,2120 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/physical-ai-humanoid-robotics-book/docs",
+          "tagsPath": "/physical-ai-humanoid-robotics-book/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\GOV\\Q-4\\code\\ai-book\\sidebars.js",
+          "contentPath": "D:\\GOV\\Q-4\\code\\ai-book\\docs",
+          "contentPathLocalized": "D:\\GOV\\Q-4\\code\\ai-book\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "appendix/glossary",
+              "title": "Glossary",
+              "description": "Definitions of key terms used in Physical AI and Robotics.",
+              "source": "@site/docs/07-appendix/02-glossary.md",
+              "sourceDirName": "07-appendix",
+              "slug": "/appendix/glossary",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/glossary",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Glossary",
+                "description": "Definitions of key terms used in Physical AI and Robotics.",
+                "keywords": [
+                  "glossary",
+                  "definitions",
+                  "terminology",
+                  "physical ai",
+                  "robotics",
+                  "llm",
+                  "ros2"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Troubleshooting",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/troubleshooting"
+              },
+              "next": {
+                "title": "Resources",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/resources"
+              }
+            },
+            {
+              "id": "appendix/hardware-vendors",
+              "title": "Hardware Vendors",
+              "description": "Recommended hardware vendors for Physical AI and Robotics components.",
+              "source": "@site/docs/07-appendix/04-hardware-vendors.md",
+              "sourceDirName": "07-appendix",
+              "slug": "/appendix/hardware-vendors",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/hardware-vendors",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "title": "Hardware Vendors",
+                "description": "Recommended hardware vendors for Physical AI and Robotics components.",
+                "keywords": [
+                  "hardware",
+                  "vendors",
+                  "suppliers",
+                  "components",
+                  "jetson",
+                  "realsense",
+                  "robotics"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Resources",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/resources"
+              }
+            },
+            {
+              "id": "appendix/index",
+              "title": "Appendix Overview",
+              "description": "Supplementary materials and additional resources.",
+              "source": "@site/docs/07-appendix/index.md",
+              "sourceDirName": "07-appendix",
+              "slug": "/appendix/",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Appendix Overview",
+                "description": "Supplementary materials and additional resources.",
+                "keywords": [
+                  "appendix",
+                  "resources",
+                  "glossary",
+                  "troubleshooting",
+                  "further reading",
+                  "physical ai"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Evaluation Rubric",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/evaluation-rubric"
+              },
+              "next": {
+                "title": "Troubleshooting",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/troubleshooting"
+              }
+            },
+            {
+              "id": "appendix/resources",
+              "title": "Resources",
+              "description": "Additional resources for learning Physical AI and Robotics.",
+              "source": "@site/docs/07-appendix/03-resources.md",
+              "sourceDirName": "07-appendix",
+              "slug": "/appendix/resources",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/resources",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Resources",
+                "description": "Additional resources for learning Physical AI and Robotics.",
+                "keywords": [
+                  "resources",
+                  "further reading",
+                  "tutorials",
+                  "documentation",
+                  "community",
+                  "research"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Glossary",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/glossary"
+              },
+              "next": {
+                "title": "Hardware Vendors",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/hardware-vendors"
+              }
+            },
+            {
+              "id": "appendix/troubleshooting",
+              "title": "Troubleshooting",
+              "description": "Common issues and solutions for Physical AI and Robotics development.",
+              "source": "@site/docs/07-appendix/01-troubleshooting.md",
+              "sourceDirName": "07-appendix",
+              "slug": "/appendix/troubleshooting",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/troubleshooting",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Troubleshooting",
+                "description": "Common issues and solutions for Physical AI and Robotics development.",
+                "keywords": [
+                  "troubleshooting",
+                  "common issues",
+                  "debugging",
+                  "errors",
+                  "ros2",
+                  "simulation"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Appendix Overview",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/"
+              },
+              "next": {
+                "title": "Glossary",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/glossary"
+              }
+            },
+            {
+              "id": "capstone-project/evaluation-rubric",
+              "title": "Evaluation Rubric",
+              "description": "Evaluation criteria and rubric for the Capstone Project.",
+              "source": "@site/docs/06-capstone-project/05-evaluation-rubric.md",
+              "sourceDirName": "06-capstone-project",
+              "slug": "/capstone-project/evaluation-rubric",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/evaluation-rubric",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6,
+                "title": "Evaluation Rubric",
+                "description": "Evaluation criteria and rubric for the Capstone Project.",
+                "keywords": [
+                  "capstone",
+                  "project",
+                  "evaluation",
+                  "rubric",
+                  "assessment",
+                  "autonomous humanoid"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Testing and Validation",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/testing-validation"
+              },
+              "next": {
+                "title": "Appendix Overview",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/"
+              }
+            },
+            {
+              "id": "capstone-project/implementation-guide",
+              "title": "Implementation Guide",
+              "description": "Step-by-step guide for implementing the Capstone Project.",
+              "source": "@site/docs/06-capstone-project/03-implementation-guide.md",
+              "sourceDirName": "06-capstone-project",
+              "slug": "/capstone-project/implementation-guide",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/implementation-guide",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Implementation Guide",
+                "description": "Step-by-step guide for implementing the Capstone Project.",
+                "keywords": [
+                  "capstone",
+                  "project",
+                  "implementation",
+                  "guide",
+                  "ros2",
+                  "vla",
+                  "isaac",
+                  "simulation"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "System Architecture",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/system-architecture"
+              },
+              "next": {
+                "title": "Testing and Validation",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/testing-validation"
+              }
+            },
+            {
+              "id": "capstone-project/index",
+              "title": "Capstone Project Overview",
+              "description": "Overview of the capstone project for integrating all modules.",
+              "source": "@site/docs/06-capstone-project/index.md",
+              "sourceDirName": "06-capstone-project",
+              "slug": "/capstone-project/",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Capstone Project Overview",
+                "description": "Overview of the capstone project for integrating all modules.",
+                "keywords": [
+                  "capstone",
+                  "project",
+                  "integration",
+                  "autonomous humanoid",
+                  "physical ai"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 4 Assessment",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/module4-assessment"
+              },
+              "next": {
+                "title": "Project Requirements",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/project-requirements"
+              }
+            },
+            {
+              "id": "capstone-project/project-requirements",
+              "title": "Project Requirements",
+              "description": "Detailed requirements for the Capstone Project.",
+              "source": "@site/docs/06-capstone-project/01-project-requirements.md",
+              "sourceDirName": "06-capstone-project",
+              "slug": "/capstone-project/project-requirements",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/project-requirements",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Project Requirements",
+                "description": "Detailed requirements for the Capstone Project.",
+                "keywords": [
+                  "capstone",
+                  "project",
+                  "requirements",
+                  "autonomous",
+                  "humanoid",
+                  "physical ai"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Capstone Project Overview",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/"
+              },
+              "next": {
+                "title": "System Architecture",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/system-architecture"
+              }
+            },
+            {
+              "id": "capstone-project/system-architecture",
+              "title": "System Architecture",
+              "description": "Overview of the system architecture for the Capstone Project.",
+              "source": "@site/docs/06-capstone-project/02-system-architecture.md",
+              "sourceDirName": "06-capstone-project",
+              "slug": "/capstone-project/system-architecture",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/system-architecture",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "System Architecture",
+                "description": "Overview of the system architecture for the Capstone Project.",
+                "keywords": [
+                  "capstone",
+                  "project",
+                  "architecture",
+                  "system design",
+                  "data flow",
+                  "ros2",
+                  "vla"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Project Requirements",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/project-requirements"
+              },
+              "next": {
+                "title": "Implementation Guide",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/implementation-guide"
+              }
+            },
+            {
+              "id": "capstone-project/testing-validation",
+              "title": "Testing and Validation",
+              "description": "Testing strategies and validation criteria for the Capstone Project.",
+              "source": "@site/docs/06-capstone-project/04-testing-validation.md",
+              "sourceDirName": "06-capstone-project",
+              "slug": "/capstone-project/testing-validation",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/testing-validation",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "title": "Testing and Validation",
+                "description": "Testing strategies and validation criteria for the Capstone Project.",
+                "keywords": [
+                  "capstone",
+                  "project",
+                  "testing",
+                  "validation",
+                  "simulation",
+                  "real-world",
+                  "ros2"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Implementation Guide",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/implementation-guide"
+              },
+              "next": {
+                "title": "Evaluation Rubric",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/evaluation-rubric"
+              }
+            },
+            {
+              "id": "intro",
+              "title": "Introduction to Physical AI and Humanoid Robotics",
+              "description": "What is Physical AI and why humanoid robots matter.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0,
+                "title": "Introduction to Physical AI and Humanoid Robotics",
+                "description": "What is Physical AI and why humanoid robots matter.",
+                "keywords": [
+                  "physical ai",
+                  "humanoid robotics",
+                  "embodied intelligence",
+                  "introduction",
+                  "ros2",
+                  "simulation",
+                  "nvidia isaac",
+                  "vla"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Prerequisites Overview",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/"
+              }
+            },
+            {
+              "id": "module-1-ros2/actions-communication",
+              "title": "Actions Communication",
+              "description": "Implementing long-running tasks with ROS 2 Actions.",
+              "source": "@site/docs/02-module-1-ros2/03-actions-communication.md",
+              "sourceDirName": "02-module-1-ros2",
+              "slug": "/module-1-ros2/actions-communication",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/actions-communication",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Actions Communication",
+                "description": "Implementing long-running tasks with ROS 2 Actions.",
+                "keywords": [
+                  "ros2",
+                  "actions",
+                  "long-running tasks",
+                  "feedback",
+                  "goal",
+                  "result"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Nodes, Topics, and Services",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/nodes-topics-services"
+              },
+              "next": {
+                "title": "Python rclpy",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/python-rclpy"
+              }
+            },
+            {
+              "id": "module-1-ros2/index",
+              "title": "ROS 2 Module Overview",
+              "description": "Introduction to ROS 2 for physical AI and robotics.",
+              "source": "@site/docs/02-module-1-ros2/index.md",
+              "sourceDirName": "02-module-1-ros2",
+              "slug": "/module-1-ros2/",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "ROS 2 Module Overview",
+                "description": "Introduction to ROS 2 for physical AI and robotics.",
+                "keywords": [
+                  "ros2",
+                  "robotics",
+                  "middleware",
+                  "physical ai",
+                  "humanoid"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Cloud Alternatives",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/cloud-alternatives"
+              },
+              "next": {
+                "title": "ROS 2 Architecture",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/ros2-architecture"
+              }
+            },
+            {
+              "id": "module-1-ros2/launch-files",
+              "title": "Launch Files",
+              "description": "Managing and orchestrating ROS 2 nodes with launch files.",
+              "source": "@site/docs/02-module-1-ros2/05-launch-files.md",
+              "sourceDirName": "02-module-1-ros2",
+              "slug": "/module-1-ros2/launch-files",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/launch-files",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6,
+                "title": "Launch Files",
+                "description": "Managing and orchestrating ROS 2 nodes with launch files.",
+                "keywords": [
+                  "ros2",
+                  "launch files",
+                  "xml",
+                  "python",
+                  "parameters",
+                  "node composition"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Python rclpy",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/python-rclpy"
+              },
+              "next": {
+                "title": "URDF Humanoids",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/urdf-humanoids"
+              }
+            },
+            {
+              "id": "module-1-ros2/module1-assessment",
+              "title": "Module 1 Assessment",
+              "description": "Project requirements and rubric for ROS 2 package development.",
+              "source": "@site/docs/02-module-1-ros2/07-module1-assessment.md",
+              "sourceDirName": "02-module-1-ros2",
+              "slug": "/module-1-ros2/module1-assessment",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/module1-assessment",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8,
+                "title": "Module 1 Assessment",
+                "description": "Project requirements and rubric for ROS 2 package development.",
+                "keywords": [
+                  "ros2",
+                  "assessment",
+                  "project",
+                  "rubric",
+                  "package development",
+                  "physical ai"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "URDF Humanoids",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/urdf-humanoids"
+              },
+              "next": {
+                "title": "Simulation Module Overview",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/"
+              }
+            },
+            {
+              "id": "module-1-ros2/nodes-topics-services",
+              "title": "Nodes, Topics, and Services",
+              "description": "Communication patterns in ROS 2.",
+              "source": "@site/docs/02-module-1-ros2/02-nodes-topics-services.md",
+              "sourceDirName": "02-module-1-ros2",
+              "slug": "/module-1-ros2/nodes-topics-services",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/nodes-topics-services",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Nodes, Topics, and Services",
+                "description": "Communication patterns in ROS 2.",
+                "keywords": [
+                  "ros2",
+                  "nodes",
+                  "topics",
+                  "services",
+                  "communication",
+                  "publisher",
+                  "subscriber",
+                  "client",
+                  "server"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ROS 2 Architecture",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/ros2-architecture"
+              },
+              "next": {
+                "title": "Actions Communication",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/actions-communication"
+              }
+            },
+            {
+              "id": "module-1-ros2/python-rclpy",
+              "title": "Python rclpy",
+              "description": "Developing ROS 2 applications with Python (rclpy).",
+              "source": "@site/docs/02-module-1-ros2/04-python-rclpy.md",
+              "sourceDirName": "02-module-1-ros2",
+              "slug": "/module-1-ros2/python-rclpy",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/python-rclpy",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "title": "Python rclpy",
+                "description": "Developing ROS 2 applications with Python (rclpy).",
+                "keywords": [
+                  "ros2",
+                  "python",
+                  "rclpy",
+                  "development",
+                  "nodes",
+                  "publishers",
+                  "subscribers",
+                  "services"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Actions Communication",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/actions-communication"
+              },
+              "next": {
+                "title": "Launch Files",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/launch-files"
+              }
+            },
+            {
+              "id": "module-1-ros2/ros2-architecture",
+              "title": "ROS 2 Architecture",
+              "description": "Understanding the core architecture of ROS 2.",
+              "source": "@site/docs/02-module-1-ros2/01-ros2-architecture.md",
+              "sourceDirName": "02-module-1-ros2",
+              "slug": "/module-1-ros2/ros2-architecture",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/ros2-architecture",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "ROS 2 Architecture",
+                "description": "Understanding the core architecture of ROS 2.",
+                "keywords": [
+                  "ros2",
+                  "architecture",
+                  "dds",
+                  "middleware",
+                  "nodes",
+                  "topics",
+                  "services"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ROS 2 Module Overview",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/"
+              },
+              "next": {
+                "title": "Nodes, Topics, and Services",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/nodes-topics-services"
+              }
+            },
+            {
+              "id": "module-1-ros2/urdf-humanoids",
+              "title": "URDF Humanoids",
+              "description": "Describing humanoid robots with URDF.",
+              "source": "@site/docs/02-module-1-ros2/06-urdf-humanoids.md",
+              "sourceDirName": "02-module-1-ros2",
+              "slug": "/module-1-ros2/urdf-humanoids",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/urdf-humanoids",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7,
+                "title": "URDF Humanoids",
+                "description": "Describing humanoid robots with URDF.",
+                "keywords": [
+                  "urdf",
+                  "humanoid",
+                  "robot description",
+                  "joints",
+                  "links",
+                  "kinematics",
+                  "dynamics"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Launch Files",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/launch-files"
+              },
+              "next": {
+                "title": "Module 1 Assessment",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/module1-assessment"
+              }
+            },
+            {
+              "id": "module-2-simulation/gazebo-introduction",
+              "title": "Gazebo Introduction",
+              "description": "Introduction to the Gazebo simulation environment.",
+              "source": "@site/docs/03-module-2-simulation/01-gazebo-introduction.md",
+              "sourceDirName": "03-module-2-simulation",
+              "slug": "/module-2-simulation/gazebo-introduction",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/gazebo-introduction",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Gazebo Introduction",
+                "description": "Introduction to the Gazebo simulation environment.",
+                "keywords": [
+                  "gazebo",
+                  "simulation",
+                  "robotics",
+                  "environment",
+                  "physics",
+                  "models"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Simulation Module Overview",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/"
+              },
+              "next": {
+                "title": "Physics Simulation",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/physics-simulation"
+              }
+            },
+            {
+              "id": "module-2-simulation/human-robot-interaction",
+              "title": "Human-Robot Interaction",
+              "description": "Simulating human presence and interaction scenarios.",
+              "source": "@site/docs/03-module-2-simulation/06-human-robot-interaction.md",
+              "sourceDirName": "03-module-2-simulation",
+              "slug": "/module-2-simulation/human-robot-interaction",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/human-robot-interaction",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7,
+                "title": "Human-Robot Interaction",
+                "description": "Simulating human presence and interaction scenarios.",
+                "keywords": [
+                  "human-robot interaction",
+                  "hri",
+                  "simulation",
+                  "human presence",
+                  "proxemics",
+                  "safety"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Unity Integration",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/unity-integration"
+              },
+              "next": {
+                "title": "Module 2 Assessment",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/module2-assessment"
+              }
+            },
+            {
+              "id": "module-2-simulation/index",
+              "title": "Simulation Module Overview",
+              "description": "Introduction to simulation environments for physical AI.",
+              "source": "@site/docs/03-module-2-simulation/index.md",
+              "sourceDirName": "03-module-2-simulation",
+              "slug": "/module-2-simulation/",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Simulation Module Overview",
+                "description": "Introduction to simulation environments for physical AI.",
+                "keywords": [
+                  "simulation",
+                  "gazebo",
+                  "unity",
+                  "digital twin",
+                  "physical ai",
+                  "robotics"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 1 Assessment",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/module1-assessment"
+              },
+              "next": {
+                "title": "Gazebo Introduction",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/gazebo-introduction"
+              }
+            },
+            {
+              "id": "module-2-simulation/module2-assessment",
+              "title": "Module 2 Assessment",
+              "description": "Simulation project requirements and rubric.",
+              "source": "@site/docs/03-module-2-simulation/07-module2-assessment.md",
+              "sourceDirName": "03-module-2-simulation",
+              "slug": "/module-2-simulation/module2-assessment",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/module2-assessment",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8,
+                "title": "Module 2 Assessment",
+                "description": "Simulation project requirements and rubric.",
+                "keywords": [
+                  "simulation",
+                  "assessment",
+                  "project",
+                  "rubric",
+                  "gazebo",
+                  "unity",
+                  "urdf",
+                  "physical ai"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Human-Robot Interaction",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/human-robot-interaction"
+              },
+              "next": {
+                "title": "NVIDIA Isaac Module Overview",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/"
+              }
+            },
+            {
+              "id": "module-2-simulation/physics-simulation",
+              "title": "Physics Simulation",
+              "description": "Understanding physics engines in robotic simulation.",
+              "source": "@site/docs/03-module-2-simulation/02-physics-simulation.md",
+              "sourceDirName": "03-module-2-simulation",
+              "slug": "/module-2-simulation/physics-simulation",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/physics-simulation",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Physics Simulation",
+                "description": "Understanding physics engines in robotic simulation.",
+                "keywords": [
+                  "physics",
+                  "simulation",
+                  "gazebo",
+                  "collisions",
+                  "dynamics",
+                  "rigid body",
+                  "forces"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Gazebo Introduction",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/gazebo-introduction"
+              },
+              "next": {
+                "title": "URDF and SDF Formats",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/urdf-sdf-formats"
+              }
+            },
+            {
+              "id": "module-2-simulation/sensor-simulation",
+              "title": "Sensor Simulation",
+              "description": "Simulating common robot sensors in Gazebo.",
+              "source": "@site/docs/03-module-2-simulation/04-sensor-simulation.md",
+              "sourceDirName": "03-module-2-simulation",
+              "slug": "/module-2-simulation/sensor-simulation",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/sensor-simulation",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "title": "Sensor Simulation",
+                "description": "Simulating common robot sensors in Gazebo.",
+                "keywords": [
+                  "sensors",
+                  "lidar",
+                  "depth camera",
+                  "imu",
+                  "simulation",
+                  "gazebo",
+                  "perception"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "URDF and SDF Formats",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/urdf-sdf-formats"
+              },
+              "next": {
+                "title": "Unity Integration",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/unity-integration"
+              }
+            },
+            {
+              "id": "module-2-simulation/unity-integration",
+              "title": "Unity Integration",
+              "description": "Integrating Unity for high-fidelity robotics simulation.",
+              "source": "@site/docs/03-module-2-simulation/05-unity-integration.md",
+              "sourceDirName": "03-module-2-simulation",
+              "slug": "/module-2-simulation/unity-integration",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/unity-integration",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6,
+                "title": "Unity Integration",
+                "description": "Integrating Unity for high-fidelity robotics simulation.",
+                "keywords": [
+                  "unity",
+                  "simulation",
+                  "high-fidelity",
+                  "ros-unity bridge",
+                  "graphics",
+                  "machine learning"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sensor Simulation",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/sensor-simulation"
+              },
+              "next": {
+                "title": "Human-Robot Interaction",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/human-robot-interaction"
+              }
+            },
+            {
+              "id": "module-2-simulation/urdf-sdf-formats",
+              "title": "URDF and SDF Formats",
+              "description": "Robot description formats for simulation.",
+              "source": "@site/docs/03-module-2-simulation/03-urdf-sdf-formats.md",
+              "sourceDirName": "03-module-2-simulation",
+              "slug": "/module-2-simulation/urdf-sdf-formats",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/urdf-sdf-formats",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "URDF and SDF Formats",
+                "description": "Robot description formats for simulation.",
+                "keywords": [
+                  "urdf",
+                  "sdf",
+                  "robot description",
+                  "gazebo",
+                  "simulation",
+                  "xacro",
+                  "collada"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Physics Simulation",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/physics-simulation"
+              },
+              "next": {
+                "title": "Sensor Simulation",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/sensor-simulation"
+              }
+            },
+            {
+              "id": "module-3-nvidia-isaac/index",
+              "title": "NVIDIA Isaac Module Overview",
+              "description": "Exploring NVIDIA Isaac platform for advanced robotics.",
+              "source": "@site/docs/04-module-3-nvidia-isaac/index.md",
+              "sourceDirName": "04-module-3-nvidia-isaac",
+              "slug": "/module-3-nvidia-isaac/",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "NVIDIA Isaac Module Overview",
+                "description": "Exploring NVIDIA Isaac platform for advanced robotics.",
+                "keywords": [
+                  "nvidia isaac",
+                  "isaac sim",
+                  "isaac ros",
+                  "advanced robotics",
+                  "ai",
+                  "simulation"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 2 Assessment",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/module2-assessment"
+              },
+              "next": {
+                "title": "Isaac Platform Overview",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/isaac-platform-overview"
+              }
+            },
+            {
+              "id": "module-3-nvidia-isaac/isaac-platform-overview",
+              "title": "Isaac Platform Overview",
+              "description": "Understanding the NVIDIA Isaac SDK, Sim, and ROS ecosystem.",
+              "source": "@site/docs/04-module-3-nvidia-isaac/01-isaac-platform-overview.md",
+              "sourceDirName": "04-module-3-nvidia-isaac",
+              "slug": "/module-3-nvidia-isaac/isaac-platform-overview",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/isaac-platform-overview",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Isaac Platform Overview",
+                "description": "Understanding the NVIDIA Isaac SDK, Sim, and ROS ecosystem.",
+                "keywords": [
+                  "nvidia isaac",
+                  "isaac sdk",
+                  "isaac sim",
+                  "isaac ros",
+                  "ecosystem",
+                  "AI",
+                  "robotics",
+                  "simulation"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NVIDIA Isaac Module Overview",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/"
+              },
+              "next": {
+                "title": "Isaac Sim Setup",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/isaac-sim-setup"
+              }
+            },
+            {
+              "id": "module-3-nvidia-isaac/isaac-ros-integration",
+              "title": "Isaac ROS Integration",
+              "description": "Integrating Isaac ROS packages for hardware acceleration.",
+              "source": "@site/docs/04-module-3-nvidia-isaac/04-isaac-ros-integration.md",
+              "sourceDirName": "04-module-3-nvidia-isaac",
+              "slug": "/module-3-nvidia-isaac/isaac-ros-integration",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/isaac-ros-integration",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "title": "Isaac ROS Integration",
+                "description": "Integrating Isaac ROS packages for hardware acceleration.",
+                "keywords": [
+                  "isaac ros",
+                  "integration",
+                  "hardware acceleration",
+                  "ros2",
+                  "jetson",
+                  "gpu"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Synthetic Data Generation",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/synthetic-data-generation"
+              },
+              "next": {
+                "title": "VSLAM Navigation",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/vslam-navigation"
+              }
+            },
+            {
+              "id": "module-3-nvidia-isaac/isaac-sim-setup",
+              "title": "Isaac Sim Setup",
+              "description": "Setting up NVIDIA Isaac Sim for robotics development.",
+              "source": "@site/docs/04-module-3-nvidia-isaac/02-isaac-sim-setup.md",
+              "sourceDirName": "04-module-3-nvidia-isaac",
+              "slug": "/module-3-nvidia-isaac/isaac-sim-setup",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/isaac-sim-setup",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Isaac Sim Setup",
+                "description": "Setting up NVIDIA Isaac Sim for robotics development.",
+                "keywords": [
+                  "isaac sim",
+                  "setup",
+                  "omniverse",
+                  "nvidia",
+                  "installation",
+                  "requirements"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Isaac Platform Overview",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/isaac-platform-overview"
+              },
+              "next": {
+                "title": "Synthetic Data Generation",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/synthetic-data-generation"
+              }
+            },
+            {
+              "id": "module-3-nvidia-isaac/module3-assessment",
+              "title": "Module 3 Assessment",
+              "description": "Project requirements and evaluation for Isaac-based perception pipeline.",
+              "source": "@site/docs/04-module-3-nvidia-isaac/08-module3-assessment.md",
+              "sourceDirName": "04-module-3-nvidia-isaac",
+              "slug": "/module-3-nvidia-isaac/module3-assessment",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/module3-assessment",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9,
+                "title": "Module 3 Assessment",
+                "description": "Project requirements and evaluation for Isaac-based perception pipeline.",
+                "keywords": [
+                  "isaac",
+                  "assessment",
+                  "project",
+                  "perception pipeline",
+                  "sim-to-real",
+                  "ros2",
+                  "physical ai"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sim-to-Real Transfer",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/sim-to-real-transfer"
+              },
+              "next": {
+                "title": "Vision-Language-Action (VLA) Module Overview",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/"
+              }
+            },
+            {
+              "id": "module-3-nvidia-isaac/nav2-bipedal-movement",
+              "title": "Nav2 Bipedal Movement",
+              "description": "Path planning for bipedal humanoid robots with Nav2.",
+              "source": "@site/docs/04-module-3-nvidia-isaac/06-nav2-bipedal-movement.md",
+              "sourceDirName": "04-module-3-nvidia-isaac",
+              "slug": "/module-3-nvidia-isaac/nav2-bipedal-movement",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/nav2-bipedal-movement",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7,
+                "title": "Nav2 Bipedal Movement",
+                "description": "Path planning for bipedal humanoid robots with Nav2.",
+                "keywords": [
+                  "nav2",
+                  "bipedal",
+                  "humanoid",
+                  "path planning",
+                  "navigation",
+                  "ros2",
+                  "motion control"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "VSLAM Navigation",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/vslam-navigation"
+              },
+              "next": {
+                "title": "Sim-to-Real Transfer",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/sim-to-real-transfer"
+              }
+            },
+            {
+              "id": "module-3-nvidia-isaac/sim-to-real-transfer",
+              "title": "Sim-to-Real Transfer",
+              "description": "Techniques for transferring policies from simulation to real robots.",
+              "source": "@site/docs/04-module-3-nvidia-isaac/07-sim-to-real-transfer.md",
+              "sourceDirName": "04-module-3-nvidia-isaac",
+              "slug": "/module-3-nvidia-isaac/sim-to-real-transfer",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/sim-to-real-transfer",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8,
+                "title": "Sim-to-Real Transfer",
+                "description": "Techniques for transferring policies from simulation to real robots.",
+                "keywords": [
+                  "sim-to-real",
+                  "transfer learning",
+                  "robotics",
+                  "simulation",
+                  "reality gap",
+                  "domain randomization"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Nav2 Bipedal Movement",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/nav2-bipedal-movement"
+              },
+              "next": {
+                "title": "Module 3 Assessment",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/module3-assessment"
+              }
+            },
+            {
+              "id": "module-3-nvidia-isaac/synthetic-data-generation",
+              "title": "Synthetic Data Generation",
+              "description": "Generating synthetic data for AI training with Isaac Sim.",
+              "source": "@site/docs/04-module-3-nvidia-isaac/03-synthetic-data-generation.md",
+              "sourceDirName": "04-module-3-nvidia-isaac",
+              "slug": "/module-3-nvidia-isaac/synthetic-data-generation",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/synthetic-data-generation",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Synthetic Data Generation",
+                "description": "Generating synthetic data for AI training with Isaac Sim.",
+                "keywords": [
+                  "synthetic data",
+                  "isaac sim",
+                  "AI training",
+                  "domain randomization",
+                  "computer vision",
+                  "deep learning"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Isaac Sim Setup",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/isaac-sim-setup"
+              },
+              "next": {
+                "title": "Isaac ROS Integration",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/isaac-ros-integration"
+              }
+            },
+            {
+              "id": "module-3-nvidia-isaac/vslam-navigation",
+              "title": "VSLAM Navigation",
+              "description": "Implementing Visual SLAM for robot navigation.",
+              "source": "@site/docs/04-module-3-nvidia-isaac/05-vslam-navigation.md",
+              "sourceDirName": "04-module-3-nvidia-isaac",
+              "slug": "/module-3-nvidia-isaac/vslam-navigation",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/vslam-navigation",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6,
+                "title": "VSLAM Navigation",
+                "description": "Implementing Visual SLAM for robot navigation.",
+                "keywords": [
+                  "vslam",
+                  "slam",
+                  "navigation",
+                  "visual odometry",
+                  "mapping",
+                  "localization",
+                  "physical ai"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Isaac ROS Integration",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/isaac-ros-integration"
+              },
+              "next": {
+                "title": "Nav2 Bipedal Movement",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/nav2-bipedal-movement"
+              }
+            },
+            {
+              "id": "module-4-vla/conversational-robotics",
+              "title": "Conversational Robotics",
+              "description": "Building conversational AI for robots using GPT models.",
+              "source": "@site/docs/05-module-4-vla/06-conversational-robotics.md",
+              "sourceDirName": "05-module-4-vla",
+              "slug": "/module-4-vla/conversational-robotics",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/conversational-robotics",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7,
+                "title": "Conversational Robotics",
+                "description": "Building conversational AI for robots using GPT models.",
+                "keywords": [
+                  "conversational robotics",
+                  "gpt",
+                  "llm",
+                  "dialogue management",
+                  "human-robot interaction"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Multimodal Interaction",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/multimodal-interaction"
+              },
+              "next": {
+                "title": "Module 4 Assessment",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/module4-assessment"
+              }
+            },
+            {
+              "id": "module-4-vla/index",
+              "title": "Vision-Language-Action (VLA) Module Overview",
+              "description": "Integrating LLMs with robotics for intelligent agents.",
+              "source": "@site/docs/05-module-4-vla/index.md",
+              "sourceDirName": "05-module-4-vla",
+              "slug": "/module-4-vla/",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Vision-Language-Action (VLA) Module Overview",
+                "description": "Integrating LLMs with robotics for intelligent agents.",
+                "keywords": [
+                  "vla",
+                  "llm",
+                  "robotics",
+                  "nlp",
+                  "multimodal",
+                  "AI"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 3 Assessment",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/module3-assessment"
+              },
+              "next": {
+                "title": "VLA Introduction",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/vla-introduction"
+              }
+            },
+            {
+              "id": "module-4-vla/llm-cognitive-planning",
+              "title": "LLM Cognitive Planning",
+              "description": "Leveraging Large Language Models for cognitive planning in robotics.",
+              "source": "@site/docs/05-module-4-vla/03-llm-cognitive-planning.md",
+              "sourceDirName": "05-module-4-vla",
+              "slug": "/module-4-vla/llm-cognitive-planning",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/llm-cognitive-planning",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "LLM Cognitive Planning",
+                "description": "Leveraging Large Language Models for cognitive planning in robotics.",
+                "keywords": [
+                  "llm",
+                  "cognitive planning",
+                  "natural language processing",
+                  "robotics",
+                  "task planning",
+                  "generative AI"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Whisper Voice Commands",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/whisper-voice-commands"
+              },
+              "next": {
+                "title": "ROS 2 Action Sequences",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/ros2-action-sequences"
+              }
+            },
+            {
+              "id": "module-4-vla/module4-assessment",
+              "title": "Module 4 Assessment",
+              "description": "Project requirements and evaluation for VLA-based autonomous humanoid.",
+              "source": "@site/docs/05-module-4-vla/07-module4-assessment.md",
+              "sourceDirName": "05-module-4-vla",
+              "slug": "/module-4-vla/module4-assessment",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/module4-assessment",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8,
+                "title": "Module 4 Assessment",
+                "description": "Project requirements and evaluation for VLA-based autonomous humanoid.",
+                "keywords": [
+                  "vla",
+                  "assessment",
+                  "project",
+                  "autonomous humanoid",
+                  "llm",
+                  "speech recognition",
+                  "multimodal interaction"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Conversational Robotics",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/conversational-robotics"
+              },
+              "next": {
+                "title": "Capstone Project Overview",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/"
+              }
+            },
+            {
+              "id": "module-4-vla/multimodal-interaction",
+              "title": "Multimodal Interaction",
+              "description": "Integrating speech, gesture, and vision for robot interaction.",
+              "source": "@site/docs/05-module-4-vla/05-multimodal-interaction.md",
+              "sourceDirName": "05-module-4-vla",
+              "slug": "/module-4-vla/multimodal-interaction",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/multimodal-interaction",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6,
+                "title": "Multimodal Interaction",
+                "description": "Integrating speech, gesture, and vision for robot interaction.",
+                "keywords": [
+                  "multimodal interaction",
+                  "speech",
+                  "gesture",
+                  "vision",
+                  "human-robot interaction",
+                  "physical ai"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ROS 2 Action Sequences",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/ros2-action-sequences"
+              },
+              "next": {
+                "title": "Conversational Robotics",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/conversational-robotics"
+              }
+            },
+            {
+              "id": "module-4-vla/ros2-action-sequences",
+              "title": "ROS 2 Action Sequences",
+              "description": "Translating LLM plans into executable ROS 2 action sequences.",
+              "source": "@site/docs/05-module-4-vla/04-ros2-action-sequences.md",
+              "sourceDirName": "05-module-4-vla",
+              "slug": "/module-4-vla/ros2-action-sequences",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/ros2-action-sequences",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "title": "ROS 2 Action Sequences",
+                "description": "Translating LLM plans into executable ROS 2 action sequences.",
+                "keywords": [
+                  "ros2",
+                  "action sequences",
+                  "llm to robotics",
+                  "task planning",
+                  "hierarchical control",
+                  "physical ai"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "LLM Cognitive Planning",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/llm-cognitive-planning"
+              },
+              "next": {
+                "title": "Multimodal Interaction",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/multimodal-interaction"
+              }
+            },
+            {
+              "id": "module-4-vla/vla-introduction",
+              "title": "VLA Introduction",
+              "description": "Understanding the Vision-Language-Action paradigm.",
+              "source": "@site/docs/05-module-4-vla/01-vla-introduction.md",
+              "sourceDirName": "05-module-4-vla",
+              "slug": "/module-4-vla/vla-introduction",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/vla-introduction",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "VLA Introduction",
+                "description": "Understanding the Vision-Language-Action paradigm.",
+                "keywords": [
+                  "vla",
+                  "vision-language-action",
+                  "llm",
+                  "robotics",
+                  "multimodal AI",
+                  "embodied intelligence"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Vision-Language-Action (VLA) Module Overview",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/"
+              },
+              "next": {
+                "title": "Whisper Voice Commands",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/whisper-voice-commands"
+              }
+            },
+            {
+              "id": "module-4-vla/whisper-voice-commands",
+              "title": "Whisper Voice Commands",
+              "description": "Integrating OpenAI Whisper for voice-to-action commands.",
+              "source": "@site/docs/05-module-4-vla/02-whisper-voice-commands.md",
+              "sourceDirName": "05-module-4-vla",
+              "slug": "/module-4-vla/whisper-voice-commands",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/whisper-voice-commands",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Whisper Voice Commands",
+                "description": "Integrating OpenAI Whisper for voice-to-action commands.",
+                "keywords": [
+                  "openai whisper",
+                  "voice commands",
+                  "speech recognition",
+                  "voice-to-action",
+                  "nlp",
+                  "robotics"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "VLA Introduction",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/vla-introduction"
+              },
+              "next": {
+                "title": "LLM Cognitive Planning",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/llm-cognitive-planning"
+              }
+            },
+            {
+              "id": "prerequisites/cloud-alternatives",
+              "title": "Cloud Alternatives",
+              "description": "Exploring cloud platforms for robotics development.",
+              "source": "@site/docs/01-prerequisites/04-cloud-alternatives.md",
+              "sourceDirName": "01-prerequisites",
+              "slug": "/prerequisites/cloud-alternatives",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/cloud-alternatives",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "title": "Cloud Alternatives",
+                "description": "Exploring cloud platforms for robotics development.",
+                "keywords": [
+                  "cloud",
+                  "aws robomaker",
+                  "omniverse cloud",
+                  "simulation",
+                  "development",
+                  "cost"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Edge Kit Setup",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/edge-kit-setup"
+              },
+              "next": {
+                "title": "ROS 2 Module Overview",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/module-1-ros2/"
+              }
+            },
+            {
+              "id": "prerequisites/edge-kit-setup",
+              "title": "Edge Kit Setup",
+              "description": "Setting up edge computing devices like Jetson Orin Nano.",
+              "source": "@site/docs/01-prerequisites/03-edge-kit-setup.md",
+              "sourceDirName": "01-prerequisites",
+              "slug": "/prerequisites/edge-kit-setup",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/edge-kit-setup",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Edge Kit Setup",
+                "description": "Setting up edge computing devices like Jetson Orin Nano.",
+                "keywords": [
+                  "edge kit",
+                  "jetson orin",
+                  "realsense",
+                  "setup",
+                  "embedded ai",
+                  "ros2",
+                  "physical ai"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Workstation Setup",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/workstation-setup"
+              },
+              "next": {
+                "title": "Cloud Alternatives",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/cloud-alternatives"
+              }
+            },
+            {
+              "id": "prerequisites/hardware-requirements",
+              "title": "Hardware Requirements",
+              "description": "Recommended hardware for Physical AI and Robotics development.",
+              "source": "@site/docs/01-prerequisites/01-hardware-requirements.md",
+              "sourceDirName": "01-prerequisites",
+              "slug": "/prerequisites/hardware-requirements",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/hardware-requirements",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Hardware Requirements",
+                "description": "Recommended hardware for Physical AI and Robotics development.",
+                "keywords": [
+                  "hardware",
+                  "workstation",
+                  "edge kit",
+                  "robot lab",
+                  "physical ai",
+                  "robotics"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Prerequisites Overview",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/"
+              },
+              "next": {
+                "title": "Workstation Setup",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/workstation-setup"
+              }
+            },
+            {
+              "id": "prerequisites/index",
+              "title": "Prerequisites Overview",
+              "description": "Overview of hardware and software requirements for the book.",
+              "source": "@site/docs/01-prerequisites/index.md",
+              "sourceDirName": "01-prerequisites",
+              "slug": "/prerequisites/",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Prerequisites Overview",
+                "description": "Overview of hardware and software requirements for the book.",
+                "keywords": [
+                  "prerequisites",
+                  "hardware",
+                  "software",
+                  "setup",
+                  "environment"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to Physical AI and Humanoid Robotics",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/intro"
+              },
+              "next": {
+                "title": "Hardware Requirements",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/hardware-requirements"
+              }
+            },
+            {
+              "id": "prerequisites/workstation-setup",
+              "title": "Workstation Setup",
+              "description": "Setting up your development workstation with Ubuntu and ROS 2.",
+              "source": "@site/docs/01-prerequisites/02-workstation-setup.md",
+              "sourceDirName": "01-prerequisites",
+              "slug": "/prerequisites/workstation-setup",
+              "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/workstation-setup",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Workstation Setup",
+                "description": "Setting up your development workstation with Ubuntu and ROS 2.",
+                "keywords": [
+                  "workstation",
+                  "setup",
+                  "ubuntu",
+                  "ros2",
+                  "humble",
+                  "installation",
+                  "development environment"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Hardware Requirements",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/hardware-requirements"
+              },
+              "next": {
+                "title": "Edge Kit Setup",
+                "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/edge-kit-setup"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Prerequisites",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "prerequisites/hardware-requirements"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "prerequisites/workstation-setup"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "prerequisites/edge-kit-setup"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "prerequisites/cloud-alternatives"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "prerequisites/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Module 1: The Robotic Nervous System (ROS 2)",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/ros2-architecture"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/nodes-topics-services"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/actions-communication"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/python-rclpy"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/launch-files"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/urdf-humanoids"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/module1-assessment"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "module-1-ros2/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Module 2: The Digital Twin (Gazebo & Unity)",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module-2-simulation/gazebo-introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-2-simulation/physics-simulation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-2-simulation/urdf-sdf-formats"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-2-simulation/sensor-simulation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-2-simulation/unity-integration"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-2-simulation/human-robot-interaction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-2-simulation/module2-assessment"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "module-2-simulation/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module-3-nvidia-isaac/isaac-platform-overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-nvidia-isaac/isaac-sim-setup"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-nvidia-isaac/synthetic-data-generation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-nvidia-isaac/isaac-ros-integration"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-nvidia-isaac/vslam-navigation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-nvidia-isaac/nav2-bipedal-movement"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-nvidia-isaac/sim-to-real-transfer"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-nvidia-isaac/module3-assessment"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "module-3-nvidia-isaac/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Module 4: Vision-Language-Action (VLA)",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module-4-vla/vla-introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-4-vla/whisper-voice-commands"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-4-vla/llm-cognitive-planning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-4-vla/ros2-action-sequences"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-4-vla/multimodal-interaction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-4-vla/conversational-robotics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-4-vla/module4-assessment"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "module-4-vla/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Capstone Project",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "capstone-project/project-requirements"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "capstone-project/system-architecture"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "capstone-project/implementation-guide"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "capstone-project/testing-validation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "capstone-project/evaluation-rubric"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "capstone-project/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Appendix",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "appendix/troubleshooting"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "appendix/glossary"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "appendix/resources"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "appendix/hardware-vendors"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "appendix/index"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/physical-ai-humanoid-robotics-book/404",
+        "source": "@site/src/pages/404.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/physical-ai-humanoid-robotics-book/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

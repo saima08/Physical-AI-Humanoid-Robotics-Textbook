@@ -1,0 +1,36 @@
+{
+  "id": "module-2-simulation/unity-integration",
+  "title": "Unity Integration",
+  "description": "Integrating Unity for high-fidelity robotics simulation.",
+  "source": "@site/docs/03-module-2-simulation/05-unity-integration.md",
+  "sourceDirName": "03-module-2-simulation",
+  "slug": "/module-2-simulation/unity-integration",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/unity-integration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Unity Integration",
+    "description": "Integrating Unity for high-fidelity robotics simulation.",
+    "keywords": [
+      "unity",
+      "simulation",
+      "high-fidelity",
+      "ros-unity bridge",
+      "graphics",
+      "machine learning"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sensor Simulation",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/sensor-simulation"
+  },
+  "next": {
+    "title": "Human-Robot Interaction",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/human-robot-interaction"
+  }
+}

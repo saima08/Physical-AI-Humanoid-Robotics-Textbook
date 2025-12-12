@@ -1,0 +1,33 @@
+{
+  "id": "appendix/hardware-vendors",
+  "title": "Hardware Vendors",
+  "description": "Recommended hardware vendors for Physical AI and Robotics components.",
+  "source": "@site/docs/07-appendix/04-hardware-vendors.md",
+  "sourceDirName": "07-appendix",
+  "slug": "/appendix/hardware-vendors",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/hardware-vendors",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Hardware Vendors",
+    "description": "Recommended hardware vendors for Physical AI and Robotics components.",
+    "keywords": [
+      "hardware",
+      "vendors",
+      "suppliers",
+      "components",
+      "jetson",
+      "realsense",
+      "robotics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Resources",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/resources"
+  }
+}

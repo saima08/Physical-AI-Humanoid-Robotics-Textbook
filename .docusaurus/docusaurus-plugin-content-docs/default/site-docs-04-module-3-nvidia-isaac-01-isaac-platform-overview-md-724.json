@@ -1,0 +1,38 @@
+{
+  "id": "module-3-nvidia-isaac/isaac-platform-overview",
+  "title": "Isaac Platform Overview",
+  "description": "Understanding the NVIDIA Isaac SDK, Sim, and ROS ecosystem.",
+  "source": "@site/docs/04-module-3-nvidia-isaac/01-isaac-platform-overview.md",
+  "sourceDirName": "04-module-3-nvidia-isaac",
+  "slug": "/module-3-nvidia-isaac/isaac-platform-overview",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/isaac-platform-overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Isaac Platform Overview",
+    "description": "Understanding the NVIDIA Isaac SDK, Sim, and ROS ecosystem.",
+    "keywords": [
+      "nvidia isaac",
+      "isaac sdk",
+      "isaac sim",
+      "isaac ros",
+      "ecosystem",
+      "AI",
+      "robotics",
+      "simulation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NVIDIA Isaac Module Overview",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/"
+  },
+  "next": {
+    "title": "Isaac Sim Setup",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/isaac-sim-setup"
+  }
+}

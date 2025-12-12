@@ -1,0 +1,37 @@
+{
+  "id": "module-3-nvidia-isaac/nav2-bipedal-movement",
+  "title": "Nav2 Bipedal Movement",
+  "description": "Path planning for bipedal humanoid robots with Nav2.",
+  "source": "@site/docs/04-module-3-nvidia-isaac/06-nav2-bipedal-movement.md",
+  "sourceDirName": "04-module-3-nvidia-isaac",
+  "slug": "/module-3-nvidia-isaac/nav2-bipedal-movement",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/nav2-bipedal-movement",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Nav2 Bipedal Movement",
+    "description": "Path planning for bipedal humanoid robots with Nav2.",
+    "keywords": [
+      "nav2",
+      "bipedal",
+      "humanoid",
+      "path planning",
+      "navigation",
+      "ros2",
+      "motion control"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VSLAM Navigation",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/vslam-navigation"
+  },
+  "next": {
+    "title": "Sim-to-Real Transfer",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/sim-to-real-transfer"
+  }
+}

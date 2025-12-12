@@ -1,0 +1,36 @@
+{
+  "id": "appendix/troubleshooting",
+  "title": "Troubleshooting",
+  "description": "Common issues and solutions for Physical AI and Robotics development.",
+  "source": "@site/docs/07-appendix/01-troubleshooting.md",
+  "sourceDirName": "07-appendix",
+  "slug": "/appendix/troubleshooting",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Troubleshooting",
+    "description": "Common issues and solutions for Physical AI and Robotics development.",
+    "keywords": [
+      "troubleshooting",
+      "common issues",
+      "debugging",
+      "errors",
+      "ros2",
+      "simulation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Appendix Overview",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/appendix/glossary"
+  }
+}

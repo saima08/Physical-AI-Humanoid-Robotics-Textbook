@@ -1,0 +1,37 @@
+{
+  "id": "module-2-simulation/physics-simulation",
+  "title": "Physics Simulation",
+  "description": "Understanding physics engines in robotic simulation.",
+  "source": "@site/docs/03-module-2-simulation/02-physics-simulation.md",
+  "sourceDirName": "03-module-2-simulation",
+  "slug": "/module-2-simulation/physics-simulation",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/physics-simulation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Physics Simulation",
+    "description": "Understanding physics engines in robotic simulation.",
+    "keywords": [
+      "physics",
+      "simulation",
+      "gazebo",
+      "collisions",
+      "dynamics",
+      "rigid body",
+      "forces"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gazebo Introduction",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/gazebo-introduction"
+  },
+  "next": {
+    "title": "URDF and SDF Formats",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/urdf-sdf-formats"
+  }
+}

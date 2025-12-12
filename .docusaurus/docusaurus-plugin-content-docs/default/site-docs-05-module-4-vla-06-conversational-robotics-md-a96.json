@@ -1,0 +1,35 @@
+{
+  "id": "module-4-vla/conversational-robotics",
+  "title": "Conversational Robotics",
+  "description": "Building conversational AI for robots using GPT models.",
+  "source": "@site/docs/05-module-4-vla/06-conversational-robotics.md",
+  "sourceDirName": "05-module-4-vla",
+  "slug": "/module-4-vla/conversational-robotics",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/conversational-robotics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Conversational Robotics",
+    "description": "Building conversational AI for robots using GPT models.",
+    "keywords": [
+      "conversational robotics",
+      "gpt",
+      "llm",
+      "dialogue management",
+      "human-robot interaction"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Multimodal Interaction",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/multimodal-interaction"
+  },
+  "next": {
+    "title": "Module 4 Assessment",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/module4-assessment"
+  }
+}

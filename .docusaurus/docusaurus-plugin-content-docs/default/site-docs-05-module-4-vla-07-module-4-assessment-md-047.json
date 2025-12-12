@@ -1,0 +1,37 @@
+{
+  "id": "module-4-vla/module4-assessment",
+  "title": "Module 4 Assessment",
+  "description": "Project requirements and evaluation for VLA-based autonomous humanoid.",
+  "source": "@site/docs/05-module-4-vla/07-module4-assessment.md",
+  "sourceDirName": "05-module-4-vla",
+  "slug": "/module-4-vla/module4-assessment",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/module4-assessment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "Module 4 Assessment",
+    "description": "Project requirements and evaluation for VLA-based autonomous humanoid.",
+    "keywords": [
+      "vla",
+      "assessment",
+      "project",
+      "autonomous humanoid",
+      "llm",
+      "speech recognition",
+      "multimodal interaction"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conversational Robotics",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-4-vla/conversational-robotics"
+  },
+  "next": {
+    "title": "Capstone Project Overview",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/"
+  }
+}

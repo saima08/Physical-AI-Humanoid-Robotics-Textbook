@@ -1,0 +1,37 @@
+{
+  "id": "module-2-simulation/urdf-sdf-formats",
+  "title": "URDF and SDF Formats",
+  "description": "Robot description formats for simulation.",
+  "source": "@site/docs/03-module-2-simulation/03-urdf-sdf-formats.md",
+  "sourceDirName": "03-module-2-simulation",
+  "slug": "/module-2-simulation/urdf-sdf-formats",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/urdf-sdf-formats",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "URDF and SDF Formats",
+    "description": "Robot description formats for simulation.",
+    "keywords": [
+      "urdf",
+      "sdf",
+      "robot description",
+      "gazebo",
+      "simulation",
+      "xacro",
+      "collada"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physics Simulation",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/physics-simulation"
+  },
+  "next": {
+    "title": "Sensor Simulation",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/sensor-simulation"
+  }
+}

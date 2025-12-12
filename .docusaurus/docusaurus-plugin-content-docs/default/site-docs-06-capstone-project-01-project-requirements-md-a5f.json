@@ -1,0 +1,36 @@
+{
+  "id": "capstone-project/project-requirements",
+  "title": "Project Requirements",
+  "description": "Detailed requirements for the Capstone Project.",
+  "source": "@site/docs/06-capstone-project/01-project-requirements.md",
+  "sourceDirName": "06-capstone-project",
+  "slug": "/capstone-project/project-requirements",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/project-requirements",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Project Requirements",
+    "description": "Detailed requirements for the Capstone Project.",
+    "keywords": [
+      "capstone",
+      "project",
+      "requirements",
+      "autonomous",
+      "humanoid",
+      "physical ai"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Capstone Project Overview",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/"
+  },
+  "next": {
+    "title": "System Architecture",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/capstone-project/system-architecture"
+  }
+}

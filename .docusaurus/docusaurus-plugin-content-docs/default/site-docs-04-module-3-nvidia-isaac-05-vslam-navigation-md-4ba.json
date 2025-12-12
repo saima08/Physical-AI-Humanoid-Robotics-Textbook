@@ -1,0 +1,37 @@
+{
+  "id": "module-3-nvidia-isaac/vslam-navigation",
+  "title": "VSLAM Navigation",
+  "description": "Implementing Visual SLAM for robot navigation.",
+  "source": "@site/docs/04-module-3-nvidia-isaac/05-vslam-navigation.md",
+  "sourceDirName": "04-module-3-nvidia-isaac",
+  "slug": "/module-3-nvidia-isaac/vslam-navigation",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/vslam-navigation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "VSLAM Navigation",
+    "description": "Implementing Visual SLAM for robot navigation.",
+    "keywords": [
+      "vslam",
+      "slam",
+      "navigation",
+      "visual odometry",
+      "mapping",
+      "localization",
+      "physical ai"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac ROS Integration",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/isaac-ros-integration"
+  },
+  "next": {
+    "title": "Nav2 Bipedal Movement",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/nav2-bipedal-movement"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "prerequisites/workstation-setup",
+  "title": "Workstation Setup",
+  "description": "Setting up your development workstation with Ubuntu and ROS 2.",
+  "source": "@site/docs/01-prerequisites/02-workstation-setup.md",
+  "sourceDirName": "01-prerequisites",
+  "slug": "/prerequisites/workstation-setup",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/workstation-setup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Workstation Setup",
+    "description": "Setting up your development workstation with Ubuntu and ROS 2.",
+    "keywords": [
+      "workstation",
+      "setup",
+      "ubuntu",
+      "ros2",
+      "humble",
+      "installation",
+      "development environment"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hardware Requirements",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/hardware-requirements"
+  },
+  "next": {
+    "title": "Edge Kit Setup",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/prerequisites/edge-kit-setup"
+  }
+}

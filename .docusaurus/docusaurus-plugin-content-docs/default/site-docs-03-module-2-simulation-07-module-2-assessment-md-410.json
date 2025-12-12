@@ -1,0 +1,38 @@
+{
+  "id": "module-2-simulation/module2-assessment",
+  "title": "Module 2 Assessment",
+  "description": "Simulation project requirements and rubric.",
+  "source": "@site/docs/03-module-2-simulation/07-module2-assessment.md",
+  "sourceDirName": "03-module-2-simulation",
+  "slug": "/module-2-simulation/module2-assessment",
+  "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/module2-assessment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "Module 2 Assessment",
+    "description": "Simulation project requirements and rubric.",
+    "keywords": [
+      "simulation",
+      "assessment",
+      "project",
+      "rubric",
+      "gazebo",
+      "unity",
+      "urdf",
+      "physical ai"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Human-Robot Interaction",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-2-simulation/human-robot-interaction"
+  },
+  "next": {
+    "title": "NVIDIA Isaac Module Overview",
+    "permalink": "/physical-ai-humanoid-robotics-book/docs/module-3-nvidia-isaac/"
+  }
+}
