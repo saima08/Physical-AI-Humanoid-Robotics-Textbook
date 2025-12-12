@@ -4,7 +4,7 @@ const config = {
   title: 'Physical AI & Humanoid Robotics',
   tagline: 'From Digital Intelligence to Embodied Robots',
   url: 'https://your-username.github.io',
-  baseUrl: '/physical-ai-humanoid-robotics-book/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
