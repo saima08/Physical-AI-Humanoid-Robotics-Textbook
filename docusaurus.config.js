@@ -3,16 +3,16 @@ const { themes } = require('prism-react-renderer');
 const config = {
   title: 'Physical AI & Humanoid Robotics',
   tagline: 'From Digital Intelligence to Embodied Robots',
-  url: 'https://your-username.github.io',
+  url: 'https://physical-ai-humanoid-robotics-textb-taupe-delta.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
-  organizationName: 'your-github-username', // Usually your GitHub org/user name.
-  projectName: 'physical-ai-humanoid-robotics-book', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
+  // organizationName: 'your-github-username', // Usually your GitHub org/user name.
+  // projectName: 'physical-ai-humanoid-robotics-book', // Usually your repo name.
+  // deploymentBranch: 'gh-pages',
 
   presets: [
     [
